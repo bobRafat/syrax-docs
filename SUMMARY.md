@@ -12,3 +12,7 @@
 ## Checkout Component
 
 * [Overview](checkout-component/overview.md)
+
+## Autofill
+
+* [Overview](autofill/overview.md)
